@@ -18,7 +18,7 @@ body{
     margin-top: 15px;
 }
 canvas{
-    border-color: white;
+    border-color: blue;
     border-width:3px;
     border-style:solid ;
     border-radius:20px;
